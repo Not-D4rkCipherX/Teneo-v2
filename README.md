@@ -3,7 +3,7 @@ Teneo Community Node BOT
 
 - Register Here : [Teneo Community Node Dashboard](https://dashboard.teneo.pro/auth/signup)
 - Download Extension Here : [Teneo Community Node Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
-- Use Code : X8sT2
+- Use Code : fGgJ4
 
 ## Features
 
@@ -25,19 +25,21 @@ Teneo Community Node BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Teneo-BOT.git
+   git clone https://github.com/Not-D4rkCipherX/Teneo-v2.git
    ```
    ```bash
-   cd Teneo-BOT
+   cd Teneo-v2
    ```
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Configuration
-
+```bash
+nano accounts.json
+```
 - **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   [
@@ -53,6 +55,9 @@ Teneo Community Node BOT
   ```
 
 - **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+- ```
+  nano proxy.txt
+  ```
   ```bash
     ip:port # Default Protcol HTTP.
     protocol://ip:port
@@ -62,17 +67,8 @@ Teneo Community Node BOT
 ## Run
 
 ```bash
-python bot.py #or python3 bot.py
+python bot.py
 ```
-
-## Buy Me a Coffee
-
-- **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
-- **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
-- **SOL:** E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf
-- **SUI:** 0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347
 
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
-
-**vonssy**

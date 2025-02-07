@@ -55,7 +55,7 @@ nano accounts.json
   ```
 
 - **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
-- ```
+  ```
   nano proxy.txt
   ```
   ```bash

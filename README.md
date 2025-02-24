@@ -16,6 +16,19 @@ Teneo Community Node BOT
   - Auto Connect and Reconnect Websocket
   - Auto Receive Message Every 15 Minutes
   - Multi Accounts With Threads
+  - 
+# How to Get Teneo Access Token
+
+1. Open your browser and login to the TENEO dashboard.
+2. Press `F12` to open the **Inspect Elements** panel.
+3. Go to the **Console** tab and paste the following code:
+
+   ```javascript
+   localStorage.getItem('accessToken')
+   ```
+
+4. You will receive your user ID, which looks like this: `"eyjxxxx........"`
+5. If you can't paste, type allow pasting and press Enter, then paste the line above.
 
 ## Requiremnets
 

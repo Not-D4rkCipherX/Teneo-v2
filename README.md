@@ -16,7 +16,7 @@ Teneo Community Node BOT
   - Auto Connect and Reconnect Websocket
   - Auto Receive Message Every 15 Minutes
   - Multi Accounts With Threads
-  - 
+    
 # How to Get Teneo Access Token
 
 1. Open your browser and login to the TENEO dashboard.

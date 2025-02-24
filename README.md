@@ -3,7 +3,7 @@ Teneo Community Node BOT
 
 - Register Here : [Teneo Community Node Dashboard](https://dashboard.teneo.pro/auth/signup)
 - Download Extension Here : [Teneo Community Node Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
-- Use Code : X8sT2
+- Use Code : fGgJ4
 
 ## Features
 
@@ -25,10 +25,10 @@ Teneo Community Node BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Teneo-BOT.git
+   git clone https://github.com/Not-D4rkCipherX/Teneo-v2.git
    ```
    ```bash
-   cd Teneo-BOT
+   cd Teneo-v2
    ```
 
 2. **Install Requirements:**
@@ -37,14 +37,19 @@ Teneo Community Node BOT
    ```
 
 ## Configuration
-
-- **tokens.txt:** You will find the file `tokens.txt` inside the project directory. Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+```bash
+nano tokens.txt
+```
+- Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     eyjxxxx1
     eyjxxxx2
   ```
-
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+## For Proxy
+```bash
+nano proxy.txt
+```
+- Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     ip:port # Default Protcol HTTP.
     protocol://ip:port
@@ -59,12 +64,10 @@ python bot.py #or python3 bot.py
 
 ## Buy Me a Coffee
 
-- **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
-- **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
-- **SOL:** E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf
-- **SUI:** 0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347
+- EVM: 0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
+- TON: UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
+- SOL: A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
+- SUI: 0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
 
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
-
-**vonssy**

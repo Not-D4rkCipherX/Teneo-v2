@@ -44,7 +44,7 @@ class Teneo:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Teneo - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}Join For More Scripts: {Fore.YELLOW + Style.BRIGHT} (https://t.me/D4rkCipherX)
             """
         )
 
